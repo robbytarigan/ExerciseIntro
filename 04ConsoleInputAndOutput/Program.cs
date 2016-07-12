@@ -6,7 +6,9 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            CompanyInformation.Start();
+            Remainder.Start();
+            // VirtualColumn.Start();
+            // CompanyInformation.Start();
             // Circle.Start();
             // PrintName.Start();   
         }
