@@ -6,7 +6,10 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            Remainder.Start();
+            GreatestOfFive.Start();
+            // SumFive.Start();
+            // Greater.Start();
+            // Remainder.Start();
             // VirtualColumn.Start();
             // CompanyInformation.Start();
             // Circle.Start();
