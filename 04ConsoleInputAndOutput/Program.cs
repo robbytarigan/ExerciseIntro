@@ -6,7 +6,8 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            GreatestOfFive.Start();
+            NumbersSum.Start();
+            // GreatestOfFive.Start();
             // SumFive.Start();
             // Greater.Start();
             // Remainder.Start();
