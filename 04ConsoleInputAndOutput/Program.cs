@@ -6,7 +6,8 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            FibonacciSequence.Start();
+            DivisionSequence.Start();
+            // FibonacciSequence.Start();
             // NumbersSum.Start();
             // GreatestOfFive.Start();
             // SumFive.Start();
