@@ -7,7 +7,8 @@ namespace ConditionalStatements
         public static void Main(string[] args)
         {            
             // ObjectEquals.Start();
-            GreatestOfFive.Start();           
+            // GreatestOfFive.Start();
+            IncreaseOrAppend.Start();           
         }
     }
 }
