@@ -8,7 +8,8 @@ namespace ConditionalStatements
         {            
             // ObjectEquals.Start();
             // GreatestOfFive.Start();
-            IncreaseOrAppend.Start();           
+            // IncreaseOrAppend.Start();
+            ZeroSumSubset.Start();         
         }
     }
 }
