@@ -6,7 +6,8 @@ namespace Loops
     {
         public static void Main(string[] args)
         {
-            PrintN.Start();
+            //PrintN.Start();
+            NotDivisableN.Start();
         }
     }
 }
