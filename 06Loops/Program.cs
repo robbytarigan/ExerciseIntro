@@ -7,7 +7,8 @@ namespace Loops
         public static void Main(string[] args)
         {
             //PrintN.Start();
-            NotDivisableN.Start();
+            // NotDivisableN.Start();
+            SmallestAndLargest.Start();
         }
     }
 }
