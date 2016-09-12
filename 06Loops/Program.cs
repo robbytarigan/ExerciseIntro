@@ -10,7 +10,8 @@ namespace Loops
             // NotDivisableN.Start();
             // SmallestAndLargest.Start();
             // NFactorialDivideByKFactorial.Start();
-            FibonacciSequence.Start();
+            // FibonacciSequence.Start();
+            NTimesKDividedByDifferenceFactorials.Start2();
         }
     }
 }
