@@ -8,7 +8,8 @@ namespace Loops
         {
             //PrintN.Start();
             // NotDivisableN.Start();
-            SmallestAndLargest.Start();
+            // SmallestAndLargest.Start();
+            NFactorialDivideByKFactorial.Start();
         }
     }
 }
