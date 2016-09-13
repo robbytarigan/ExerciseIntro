@@ -11,7 +11,8 @@ namespace Loops
             // SmallestAndLargest.Start();
             // NFactorialDivideByKFactorial.Start();
             // FibonacciSequence.Start();
-            NTimesKDividedByDifferenceFactorials.Start2();
+            // NTimesKDividedByDifferenceFactorials.Start2();
+            CatalanNumbers.Start();
         }
     }
 }
