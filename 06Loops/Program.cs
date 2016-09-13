@@ -13,7 +13,8 @@ namespace Loops
             // FibonacciSequence.Start();
             // NTimesKDividedByDifferenceFactorials.Start2();
             // CatalanNumbers.Start();
-            SumOfFormulaA.Start();
+            // SumOfFormulaA.Start();
+            MatrixOfNumbers.Start();
         }
     }
 }
