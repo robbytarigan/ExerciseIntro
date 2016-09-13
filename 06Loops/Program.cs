@@ -12,7 +12,8 @@ namespace Loops
             // NFactorialDivideByKFactorial.Start();
             // FibonacciSequence.Start();
             // NTimesKDividedByDifferenceFactorials.Start2();
-            CatalanNumbers.Start();
+            // CatalanNumbers.Start();
+            SumOfFormulaA.Start();
         }
     }
 }
